@@ -77,15 +77,6 @@ Próximos passos: cursos sugeridos para continuar estudos no LinkedIn Learning
 
 ---
 
-#### ✍️ AUTORA  
-Carla Edila Silveira  
-Contato: rosa.carla@pucpr.edu.br  
-
----
-
-#### ©️ LICENÇA
-
-[MIT](https://choosealicense.com/licenses/mit/)  
 
 ---  
 
